@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Big O Notation", "Big O Notation.csproj", "{C7B27800-F5A6-40AB-A4D7-563DCA93EC3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B27800-F5A6-40AB-A4D7-563DCA93EC3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B27800-F5A6-40AB-A4D7-563DCA93EC3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B27800-F5A6-40AB-A4D7-563DCA93EC3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B27800-F5A6-40AB-A4D7-563DCA93EC3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B7D481A-269D-48AB-8EDC-0D9F0919C4F9}
+	EndGlobalSection
+EndGlobal
